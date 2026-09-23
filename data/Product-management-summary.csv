@@ -1,0 +1,267 @@
+﻿ProductID,ProductName,Category,Subcategory,QuantitySold,Revenue,RevenuePerUnit,RevenueRank
+782,"Mountain-200 Black, 38",Bikes,Mountain Bikes,2977,4400592.80,1478.20,1
+783,"Mountain-200 Black, 42",Bikes,Mountain Bikes,2664,4009494.76,1505.07,2
+779,"Mountain-200 Silver, 38",Bikes,Mountain Bikes,2394,3693678.03,1542.89,3
+780,"Mountain-200 Silver, 42",Bikes,Mountain Bikes,2234,3438478.86,1539.16,4
+781,"Mountain-200 Silver, 46",Bikes,Mountain Bikes,2216,3434256.94,1549.75,5
+784,"Mountain-200 Black, 46",Bikes,Mountain Bikes,2111,3309673.22,1567.82,6
+793,"Road-250 Black, 44",Bikes,Road Bikes,1642,2516857.31,1532.80,7
+794,"Road-250 Black, 48",Bikes,Road Bikes,1498,2347655.95,1567.19,8
+795,"Road-250 Black, 52",Bikes,Road Bikes,1245,2012447.78,1616.42,9
+753,"Road-150 Red, 56",Bikes,Road Bikes,664,1847818.63,2782.86,10
+976,"Road-350-W Yellow, 48",Bikes,Road Bikes,1622,1774883.56,1094.26,11
+749,"Road-150 Red, 62",Bikes,Road Bikes,600,1769096.69,2948.49,12
+969,"Touring-1000 Blue, 60",Bikes,Touring Bikes,1120,1721242.51,1536.82,13
+973,"Road-350-W Yellow, 40",Bikes,Road Bikes,1477,1657198.18,1122.00,14
+792,"Road-250 Red, 58",Bikes,Road Bikes,946,1587008.18,1677.60,15
+966,"Touring-1000 Blue, 46",Bikes,Touring Bikes,1002,1586953.57,1583.79,16
+751,"Road-150 Red, 48",Bikes,Road Bikes,493,1540803.06,3125.36,17
+957,"Touring-1000 Yellow, 60",Bikes,Touring Bikes,1114,1518133.10,1362.78,18
+796,"Road-250 Black, 58",Bikes,Road Bikes,910,1506377.63,1655.36,19
+789,"Road-250 Red, 44",Bikes,Road Bikes,895,1448122.48,1618.01,20
+954,"Touring-1000 Yellow, 46",Bikes,Touring Bikes,1005,1426372.87,1419.28,21
+752,"Road-150 Red, 52",Bikes,Road Bikes,458,1415563.61,3090.75,22
+777,"Mountain-100 Black, 44",Bikes,Mountain Bikes,678,1365852.38,2014.53,23
+790,"Road-250 Red, 48",Bikes,Road Bikes,812,1348759.50,1661.03,24
+750,"Road-150 Red, 44",Bikes,Road Bikes,437,1340419.94,3067.32,25
+775,"Mountain-100 Black, 38",Bikes,Mountain Bikes,682,1339997.25,1964.81,26
+771,"Mountain-100 Silver, 38",Bikes,Mountain Bikes,642,1291868.70,2012.26,27
+776,"Mountain-100 Black, 42",Bikes,Mountain Bikes,634,1254722.73,1979.06,28
+778,"Mountain-100 Black, 48",Bikes,Mountain Bikes,616,1234276.03,2003.69,29
+801,"Road-550-W Yellow, 48",Bikes,Road Bikes,1763,1233938.88,699.91,30
+797,"Road-550-W Yellow, 38",Bikes,Road Bikes,1744,1227910.08,704.08,31
+773,"Mountain-100 Silver, 44",Bikes,Mountain Bikes,601,1217210.36,2025.31,32
+772,"Mountain-100 Silver, 42",Bikes,Mountain Bikes,593,1186494.85,2000.83,33
+974,"Road-350-W Yellow, 42",Bikes,Road Bikes,944,1120066.36,1186.51,34
+967,"Touring-1000 Blue, 50",Bikes,Touring Bikes,649,1071401.06,1650.85,35
+798,"Road-550-W Yellow, 40",Bikes,Road Bikes,1500,1071291.78,714.19,36
+791,"Road-250 Red, 52",Bikes,Road Bikes,639,1066766.61,1669.43,37
+770,"Road-650 Black, 52",Bikes,Road Bikes,2270,1042909.78,459.43,38
+774,"Mountain-100 Silver, 48",Bikes,Mountain Bikes,505,1019657.00,2019.12,39
+760,"Road-650 Red, 60",Bikes,Road Bikes,2232,1016529.02,455.43,40
+955,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,652,981187.85,1504.89,41
+762,"Road-650 Red, 44",Bikes,Road Bikes,2254,943340.56,418.52,42
+799,"Road-550-W Yellow, 42",Bikes,Road Bikes,1249,932039.59,746.23,43
+748,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,1206,930780.68,771.79,44
+743,"HL Mountain Frame - Black, 42",Components,Mountain Frames,1181,901590.23,763.41,45
+761,"Road-650 Red, 62",Bikes,Road Bikes,1896,879827.94,464.04,46
+763,"Road-650 Red, 48",Bikes,Road Bikes,1888,878666.66,465.40,47
+765,"Road-650 Black, 58",Bikes,Road Bikes,1871,869632.78,464.80,48
+972,"Touring-2000 Blue, 54",Bikes,Touring Bikes,1010,772302.01,764.66,49
+968,"Touring-1000 Blue, 54",Bikes,Touring Bikes,413,743353.03,1799.89,50
+800,"Road-550-W Yellow, 44",Bikes,Road Bikes,927,717825.91,774.35,51
+975,"Road-350-W Yellow, 44",Bikes,Road Bikes,536,694003.92,1294.78,52
+956,"Touring-1000 Yellow, 54",Bikes,Touring Bikes,397,667158.15,1680.50,53
+953,"Touring-2000 Blue, 60",Bikes,Touring Bikes,820,635723.72,775.27,54
+758,"Road-450 Red, 52",Bikes,Road Bikes,710,621103.74,874.79,55
+998,"Road-750 Black, 48",Bikes,Road Bikes,1556,578174.31,371.58,56
+764,"Road-650 Red, 52",Bikes,Road Bikes,1112,523630.15,470.89,57
+766,"Road-650 Black, 60",Bikes,Road Bikes,1100,521898.26,474.45,58
+999,"Road-750 Black, 52",Bikes,Road Bikes,1338,515666.91,385.40,59
+768,"Road-650 Black, 44",Bikes,Road Bikes,1080,509245.01,471.52,60
+754,"Road-450 Red, 58",Bikes,Road Bikes,582,507978.30,872.81,61
+747,"HL Mountain Frame - Black, 38",Components,Mountain Frames,659,501788.20,761.44,62
+786,"Mountain-300 Black, 40",Bikes,Mountain Bikes,776,501648.88,646.45,63
+742,"HL Mountain Frame - Silver, 46",Components,Mountain Frames,649,499556.57,769.73,64
+835,"ML Road Frame-W - Yellow, 44",Components,Road Frames,1435,485700.55,338.47,65
+787,"Mountain-300 Black, 44",Bikes,Mountain Bikes,747,484051.52,647.99,66
+788,"Mountain-300 Black, 48",Bikes,Mountain Bikes,740,479071.90,647.39,67
+785,"Mountain-300 Black, 38",Bikes,Mountain Bikes,684,442477.09,646.90,68
+970,"Touring-2000 Blue, 46",Bikes,Touring Bikes,538,438867.48,815.74,69
+718,"HL Road Frame - Red, 44",Components,Road Frames,486,395182.70,813.13,70
+717,"HL Road Frame - Red, 62",Components,Road Frames,485,394255.57,812.90,71
+838,"HL Road Frame - Black, 44",Components,Road Frames,459,375026.98,817.05,72
+977,"Road-750 Black, 58",Bikes,Road Bikes,892,361145.31,404.87,73
+961,"Touring-3000 Yellow, 44",Bikes,Touring Bikes,851,358121.89,420.82,74
+965,"Touring-3000 Yellow, 62",Bikes,Touring Bikes,844,351547.71,416.53,75
+979,"Touring-3000 Blue, 50",Bikes,Touring Bikes,841,348581.50,414.48,76
+892,"HL Touring Frame - Blue, 54",Components,Touring Frames,542,324333.10,598.40,77
+981,"Mountain-400-W Silver, 40",Bikes,Mountain Bikes,617,323703.82,524.64,78
+889,"HL Touring Frame - Yellow, 54",Components,Touring Frames,540,323268.26,598.64,79
+767,"Road-650 Black, 62",Bikes,Road Bikes,644,312250.81,484.86,80
+769,"Road-650 Black, 48",Bikes,Road Bikes,644,310946.58,482.84,81
+755,"Road-450 Red, 60",Bikes,Road Bikes,350,306177.90,874.79,82
+759,"Road-650 Red, 58",Bikes,Road Bikes,618,304012.64,491.93,83
+822,"ML Road Frame-W - Yellow, 38",Components,Road Frames,895,303330.84,338.92,84
+756,"Road-450 Red, 44",Bikes,Road Bikes,346,302678.72,874.79,85
+836,"ML Road Frame-W - Yellow, 48",Components,Road Frames,889,301286.79,338.91,86
+738,"LL Road Frame - Black, 52",Components,Road Frames,1581,299595.52,189.50,87
+962,"Touring-3000 Yellow, 50",Bikes,Touring Bikes,686,291747.26,425.29,88
+997,"Road-750 Black, 44",Bikes,Road Bikes,656,290298.62,442.53,89
+958,"Touring-3000 Blue, 54",Bikes,Touring Bikes,686,290075.12,422.85,90
+971,"Touring-2000 Blue, 50",Bikes,Touring Bikes,322,286218.66,888.88,91
+739,"HL Mountain Frame - Silver, 42",Components,Mountain Frames,347,269874.01,777.73,92
+980,"Mountain-400-W Silver, 38",Bikes,Mountain Bikes,425,241773.76,568.88,93
+876,Hitch Rack - 4-Bike,Accessories,Bike Racks,3166,237096.16,74.89,94
+885,"HL Touring Frame - Yellow, 60",Components,Touring Frames,387,232378.26,600.46,95
+983,"Mountain-400-W Silver, 46",Bikes,Mountain Bikes,401,227347.67,566.95,96
+893,"HL Touring Frame - Blue, 60",Components,Touring Frames,371,221720.95,597.63,97
+982,"Mountain-400-W Silver, 42",Bikes,Mountain Bikes,385,217457.87,564.83,98
+959,"Touring-3000 Blue, 58",Bikes,Touring Bikes,482,210946.18,437.65,99
+832,"ML Mountain Frame - Black, 48",Components,Mountain Frames,959,200284.50,208.85,100
+715,"Long-Sleeve Logo Jersey, L",Clothing,Jerseys,6592,198754.98,30.15,101
+963,"Touring-3000 Yellow, 54",Bikes,Touring Bikes,453,196809.98,434.46,102
+729,"LL Road Frame - Red, 60",Components,Road Frames,996,195933.41,196.72,103
+904,"ML Mountain Frame-W - Silver, 40",Components,Mountain Frames,899,195826.39,217.83,104
+725,"LL Road Frame - Red, 44",Components,Road Frames,991,194692.60,196.46,105
+722,"LL Road Frame - Black, 58",Components,Road Frames,940,177635.90,188.97,106
+825,HL Mountain Rear Wheel,Components,Wheels,850,166013.28,195.31,107
+711,"Sport-100 Helmet, Blue",Accessories,Helmets,6743,165406.62,24.53,108
+988,"Mountain-500 Silver, 52",Bikes,Mountain Bikes,515,161293.35,313.19,109
+708,"Sport-100 Helmet, Black",Accessories,Helmets,6532,160869.52,24.63,110
+707,"Sport-100 Helmet, Red",Accessories,Helmets,6266,157772.39,25.18,111
+992,"Mountain-500 Black, 48",Bikes,Mountain Bikes,449,157569.08,350.93,112
+864,"Classic Vest, S",Clothing,Vests,4247,156398.07,36.83,113
+951,HL Crankset,Components,Cranksets,613,148622.58,242.45,114
+984,"Mountain-500 Silver, 40",Bikes,Mountain Bikes,450,145089.43,322.42,115
+987,"Mountain-500 Silver, 48",Bikes,Mountain Bikes,457,142897.27,312.69,116
+741,"HL Mountain Frame - Silver, 48",Components,Mountain Frames,173,141635.10,818.70,117
+985,"Mountain-500 Silver, 42",Bikes,Mountain Bikes,455,141360.50,310.68,118
+730,"LL Road Frame - Red, 62",Components,Road Frames,697,137213.49,196.86,119
+867,"Women's Mountain Shorts, S",Clothing,Shorts,3296,137164.13,41.62,120
+905,"ML Mountain Frame-W - Silver, 42",Components,Mountain Frames,627,136970.66,218.45,121
+869,"Women's Mountain Shorts, L",Clothing,Shorts,3244,136774.02,42.16,122
+757,"Road-450 Red, 48",Bikes,Road Bikes,156,136467.86,874.79,123
+990,"Mountain-500 Black, 42",Bikes,Mountain Bikes,388,136293.48,351.27,124
+960,"Touring-3000 Blue, 62",Bikes,Touring Bikes,281,135284.01,481.44,125
+978,"Touring-3000 Blue, 44",Bikes,Touring Bikes,292,133365.03,456.73,126
+726,"LL Road Frame - Red, 48",Components,Road Frames,671,132125.25,196.91,127
+964,"Touring-3000 Yellow, 58",Bikes,Touring Bikes,293,130898.58,446.75,128
+831,"ML Mountain Frame - Black, 44",Components,Mountain Frames,619,129529.46,209.26,129
+884,"Short-Sleeve Classic Jersey, XL",Clothing,Jerseys,3864,129145.57,33.42,130
+991,"Mountain-500 Black, 44",Bikes,Mountain Bikes,350,125925.67,359.79,131
+986,"Mountain-500 Silver, 44",Bikes,Mountain Bikes,381,122512.43,321.55,132
+824,ML Mountain Rear Wheel,Components,Wheels,851,119892.16,140.88,133
+714,"Long-Sleeve Logo Jersey, M",Clothing,Jerseys,3636,115249.21,31.70,134
+820,HL Road Front Wheel,Components,Wheels,567,112286.41,198.04,135
+814,"ML Mountain Frame - Black, 38",Components,Mountain Frames,514,107557.58,209.26,136
+745,"HL Mountain Frame - Black, 48",Components,Mountain Frames,131,106078.56,809.76,137
+880,Hydration Pack - 70 oz.,Accessories,Hydration Packs,2761,105826.42,38.33,138
+989,"Mountain-500 Black, 40",Bikes,Mountain Bikes,282,101734.12,360.76,139
+917,"LL Mountain Frame - Silver, 42",Components,Mountain Frames,638,100569.36,157.63,140
+883,"Short-Sleeve Classic Jersey, L",Clothing,Jerseys,2848,98472.72,34.58,141
+993,"Mountain-500 Black, 52",Bikes,Mountain Bikes,272,96982.20,356.55,142
+716,"Long-Sleeve Logo Jersey, XL",Clothing,Jerseys,2980,95611.20,32.08,143
+854,"Women's Tights, L",Clothing,Tights,2123,94090.64,44.32,144
+925,"LL Mountain Frame - Black, 44",Components,Mountain Frames,625,93584.42,149.74,145
+852,"Women's Tights, S",Clothing,Tights,2072,91330.80,44.08,146
+865,"Classic Vest, M",Clothing,Vests,2284,90250.60,39.51,147
+719,"HL Road Frame - Red, 48",Components,Road Frames,109,89872.17,824.52,148
+839,"HL Road Frame - Black, 48",Components,Road Frames,109,89872.17,824.52,148
+732,"ML Road Frame - Red, 48",Components,Road Frames,250,89224.50,356.90,150
+856,"Men's Bib-Shorts, M",Clothing,Bib-Shorts,1616,86166.05,53.32,151
+819,ML Road Front Wheel,Components,Wheels,532,79354.04,149.16,152
+891,"HL Touring Frame - Blue, 50",Components,Touring Frames,124,74690.90,602.35,153
+881,"Short-Sleeve Classic Jersey, S",Clothing,Jerseys,1955,71606.07,36.63,154
+863,"Full-Finger Gloves, L",Clothing,Gloves,3378,69943.21,20.71,155
+944,"LL Mountain Frame - Silver, 40",Components,Mountain Frames,442,69934.28,158.22,156
+886,"LL Touring Frame - Yellow, 62",Components,Touring Frames,348,69127.14,198.64,157
+890,"HL Touring Frame - Blue, 46",Components,Touring Frames,114,68667.44,602.35,158
+833,"ML Road Frame-W - Yellow, 40",Components,Road Frames,203,68167.51,335.80,159
+920,"LL Mountain Frame - Silver, 52",Components,Mountain Frames,425,67332.75,158.43,160
+924,"LL Mountain Frame - Black, 42",Components,Mountain Frames,423,63396.70,149.87,161
+895,"LL Touring Frame - Blue, 50",Components,Touring Frames,316,63216.43,200.05,162
+804,HL Fork,Components,Forks,444,61034.61,137.47,163
+918,"LL Mountain Frame - Silver, 44",Components,Mountain Frames,371,58777.53,158.43,164
+899,"LL Touring Frame - Yellow, 44",Components,Touring Frames,294,58699.39,199.66,165
+826,LL Road Rear Wheel,Components,Wheels,868,58655.37,67.58,166
+926,"LL Mountain Frame - Black, 48",Components,Mountain Frames,386,57851.36,149.87,167
+868,"Women's Mountain Shorts, M",Clothing,Shorts,1139,57685.76,50.65,168
+859,"Half-Finger Gloves, M",Clothing,Gloves,3464,54545.49,15.75,169
+887,"HL Touring Frame - Yellow, 46",Components,Touring Frames,87,52404.10,602.35,170
+809,ML Mountain Handlebars,Components,Handlebars,1465,51753.71,35.33,171
+712,AWC Logo Cap,Clothing,Caps,8311,51229.45,6.16,172
+948,Front Brakes,Components,Brakes,789,50299.31,63.75,173
+888,"HL Touring Frame - Yellow, 50",Components,Touring Frames,83,49994.72,602.35,174
+930,HL Mountain Tire,Accessories,Tires and Tubes,1396,48860.00,35.00,175
+862,"Full-Finger Gloves, M",Clothing,Gloves,2206,48210.18,21.85,176
+855,"Men's Bib-Shorts, S",Clothing,Bib-Shorts,876,47214.37,53.90,177
+878,Fender Set - Mountain,Accessories,Fenders,2121,46619.58,21.98,178
+900,"LL Touring Frame - Yellow, 50",Components,Touring Frames,228,45611.86,200.05,179
+849,"Men's Sports Shorts, M",Clothing,Shorts,1276,45594.28,35.73,180
+736,"LL Road Frame - Black, 44",Components,Road Frames,238,45164.68,189.77,181
+949,LL Crankset,Components,Cranksets,426,44855.24,105.29,182
+945,Front Derailleur,Components,Derailleurs,813,44484.27,54.72,183
+813,HL Road Handlebars,Components,Handlebars,631,43395.60,68.77,184
+896,"LL Touring Frame - Blue, 54",Components,Touring Frames,211,42210.97,200.05,185
+906,"ML Mountain Frame-W - Silver, 46",Components,Mountain Frames,188,41069.35,218.45,186
+817,HL Mountain Front Wheel,Components,Wheels,222,39988.64,180.13,187
+806,ML Headset,Components,Headsets,659,39909.11,60.56,188
+879,All-Purpose Bike Stand,Accessories,Bike Stands,249,39591.00,159.00,189
+996,HL Bottom Bracket,Components,Bottom Brackets,543,39581.44,72.89,190
+937,HL Mountain Pedal,Components,Pedals,785,38018.33,48.43,191
+858,"Half-Finger Gloves, S",Clothing,Gloves,2188,36490.55,16.68,192
+929,ML Mountain Tire,Accessories,Tires and Tubes,1161,34818.39,29.99,193
+810,HL Mountain Handlebars,Components,Handlebars,500,34375.35,68.75,194
+857,"Men's Bib-Shorts, L",Clothing,Bib-Shorts,633,34178.20,53.99,195
+816,ML Mountain Front Wheel,Components,Wheels,266,33360.39,125.42,196
+940,HL Road Pedal,Components,Pedals,676,32849.54,48.59,197
+733,"ML Road Frame - Red, 52",Components,Road Frames,90,32120.82,356.90,198
+870,Water Bottle - 30 oz.,Accessories,Bottles and Cages,6815,28654.16,4.20,199
+933,HL Road Tire,Accessories,Tires and Tubes,858,27970.80,32.60,200
+934,Touring Tire,Accessories,Tires and Tubes,935,27105.65,28.99,201
+894,Rear Derailleur,Components,Derailleurs,353,25725.23,72.88,202
+723,"LL Road Frame - Black, 60",Components,Road Frames,129,24844.69,192.59,203
+939,ML Road Pedal,Components,Pedals,661,24624.89,37.25,204
+932,ML Road Tire,Accessories,Tires and Tubes,926,23140.74,24.99,205
+860,"Half-Finger Gloves, L",Clothing,Gloves,1276,22912.26,17.96,206
+815,LL Mountain Front Wheel,Components,Wheels,617,22462.84,36.41,207
+931,LL Road Tire,Accessories,Tires and Tubes,1044,22435.56,21.49,208
+808,LL Mountain Handlebars,Components,Handlebars,865,22008.27,25.44,209
+882,"Short-Sleeve Classic Jersey, M",Clothing,Jerseys,407,21973.93,53.99,210
+928,LL Mountain Tire,Accessories,Tires and Tubes,862,21541.38,24.99,211
+713,"Long-Sleeve Logo Jersey, S",Clothing,Jerseys,429,21445.71,49.99,212
+938,LL Road Pedal,Components,Pedals,868,21087.19,24.29,213
+841,"Men's Sports Shorts, S",Clothing,Shorts,567,20365.00,35.92,214
+828,HL Road Rear Wheel,Components,Wheels,94,20238.16,215.30,215
+871,Mountain Bottle Cage,Accessories,Bottles and Cages,2025,20229.75,9.99,216
+727,"LL Road Frame - Red, 52",Components,Road Frames,100,20104.44,201.04,217
+807,HL Headset,Components,Headsets,255,19083.69,74.84,218
+877,Bike Wash - Dissolver,Accessories,Cleaners,3319,18406.97,5.55,219
+823,LL Mountain Rear Wheel,Components,Wheels,342,18005.27,52.65,220
+853,"Women's Tights, M",Clothing,Tights,394,17727.64,44.99,221
+802,LL Fork,Components,Forks,190,16897.08,88.93,222
+910,HL Mountain Seat/Saddle,Components,Saddles,519,16392.10,31.58,223
+843,Cable Lock,Accessories,Locks,1087,16240.22,14.94,224
+850,"Men's Sports Shorts, L",Clothing,Shorts,445,16017.33,35.99,225
+907,Rear Brakes,Components,Brakes,246,15719.40,63.90,226
+921,Mountain Tire Tube,Accessories,Tires and Tubes,3095,15444.05,4.99,227
+872,Road Bottle Cage,Accessories,Bottles and Cages,1712,15390.88,8.99,228
+830,"ML Mountain Frame - Black, 40",Components,Mountain Frames,68,14229.41,209.26,229
+875,"Racing Socks, L",Clothing,Socks,2473,13784.59,5.57,230
+744,"HL Mountain Frame - Black, 44",Components,Mountain Frames,17,13765.92,809.76,231
+844,Minipump,Accessories,Pumps,1130,13514.69,11.96,232
+916,HL Touring Seat/Saddle,Components,Saddles,426,13454.78,31.58,233
+936,ML Mountain Pedal,Components,Pedals,345,12852.63,37.25,234
+866,"Classic Vest, L",Clothing,Vests,207,12839.70,62.03,235
+909,ML Mountain Seat/Saddle,Components,Saddles,534,12497.17,23.40,236
+994,LL Bottom Bracket,Components,Bottom Brackets,378,12244.93,32.39,237
+947,HL Touring Handlebars,Components,Handlebars,220,12087.24,54.94,238
+861,"Full-Finger Gloves, S",Clothing,Gloves,500,11410.30,22.82,239
+935,LL Mountain Pedal,Components,Pedals,449,10908.01,24.29,240
+827,ML Road Rear Wheel,Components,Wheels,64,10574.78,165.23,241
+950,ML Crankset,Components,Cranksets,68,10464.79,153.89,242
+922,Road Tire Tube,Accessories,Tires and Tubes,2376,9480.24,3.99,243
+874,"Racing Socks, M",Clothing,Socks,1547,9387.15,6.07,244
+952,Chain,Components,Chains,774,9377.71,12.12,245
+873,Patch Kit/8 Patches,Accessories,Tires and Tubes,3865,8232.60,2.13,246
+923,Touring Tire Tube,Accessories,Tires and Tubes,1488,7425.12,4.99,247
+902,"LL Touring Frame - Yellow, 58",Components,Touring Frames,36,7201.87,200.05,248
+941,Touring Pedal,Components,Pedals,147,7143.32,48.59,249
+919,"LL Mountain Frame - Silver, 48",Components,Mountain Frames,44,6970.92,158.43,250
+709,"Mountain Bike Socks, M",Clothing,Socks,1107,6060.39,5.47,251
+908,LL Mountain Seat/Saddle,Components,Saddles,347,5636.96,16.24,252
+811,LL Road Handlebars,Components,Handlebars,213,5422.54,25.46,253
+903,"LL Touring Frame - Blue, 44",Components,Touring Frames,25,5001.30,200.05,254
+913,HL Road Seat/Saddle,Components,Saddles,134,4232.26,31.58,255
+898,"LL Touring Frame - Blue, 62",Components,Touring Frames,15,3000.78,200.05,256
+927,"LL Mountain Frame - Black, 52",Components,Mountain Frames,15,2248.11,149.87,257
+915,ML Touring Seat/Saddle,Components,Saddles,84,1972.66,23.48,258
+805,LL Headset,Components,Headsets,95,1949.40,20.52,259
+946,LL Touring Handlebars,Components,Handlebars,56,1548.62,27.65,260
+942,"ML Mountain Frame-W - Silver, 38",Components,Mountain Frames,7,1529.18,218.45,261
+914,LL Touring Seat/Saddle,Components,Saddles,91,1480.75,16.27,262
+943,"LL Mountain Frame - Black, 40",Components,Mountain Frames,8,1198.99,149.87,263
+897,"LL Touring Frame - Blue, 58",Components,Touring Frames,4,800.21,200.05,264
+710,"Mountain Bike Socks, L",Clothing,Socks,90,513.00,5.70,265
+911,LL Road Seat/Saddle,Components,Saddles,10,162.72,16.27,266

@@ -1,0 +1,36 @@
+﻿Category,Subcategory,Revenue,CategoryRevenueSharePct,SubcategoryRank
+Accessories,Helmets,484048.53,38.05,1
+Accessories,Tires and Tubes,246454.53,19.37,2
+Accessories,Bike Racks,237096.16,18.64,3
+Accessories,Hydration Packs,105826.42,8.32,4
+Accessories,Bottles and Cages,64274.79,5.05,5
+Accessories,Fenders,46619.58,3.66,6
+Accessories,Bike Stands,39591.00,3.11,7
+Accessories,Cleaners,18406.97,1.45,8
+Accessories,Locks,16240.22,1.28,9
+Accessories,Pumps,13514.69,1.06,10
+Bikes,Road Bikes,43909437.51,46.39,1
+Bikes,Mountain Bikes,36445443.94,38.51,2
+Bikes,Touring Bikes,14296291.26,15.10,3
+Clothing,Jerseys,752259.39,35.47,1
+Clothing,Shorts,413600.51,19.50,2
+Clothing,Vests,259488.37,12.24,3
+Clothing,Gloves,243511.98,11.48,4
+Clothing,Tights,203149.08,9.58,5
+Clothing,Bib-Shorts,167558.62,7.90,6
+Clothing,Caps,51229.45,2.42,7
+Clothing,Socks,29745.13,1.40,8
+Components,Mountain Frames,4713930.23,39.94,1
+Components,Road Frames,3851350.60,32.63,2
+Components,Touring Frames,1642327.69,13.91,3
+Components,Wheels,680831.35,5.77,4
+Components,Cranksets,203942.62,1.73,5
+Components,Handlebars,170591.32,1.45,6
+Components,Pedals,147483.91,1.25,7
+Components,Forks,77931.69,0.66,8
+Components,Derailleurs,70209.50,0.59,9
+Components,Brakes,66018.71,0.56,10
+Components,Headsets,60942.20,0.52,11
+Components,Saddles,55829.39,0.47,12
+Components,Bottom Brackets,51826.37,0.44,13
+Components,Chains,9377.71,0.08,14

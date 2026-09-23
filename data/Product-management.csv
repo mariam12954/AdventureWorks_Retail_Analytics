@@ -1,0 +1,31 @@
+﻿ProductID,ProductName,Category,QuantitySold,Revenue,RevenueRank,QuantityRank,ManagementPriority
+782,"Mountain-200 Black, 38",Bikes,2977,4400592.800400,1,19,High Revenue - Review Volume
+783,"Mountain-200 Black, 42",Bikes,2664,4009494.761841,2,22,High Revenue - Review Volume
+779,"Mountain-200 Silver, 38",Bikes,2394,3693678.025272,3,24,High Revenue - Review Volume
+780,"Mountain-200 Silver, 42",Bikes,2234,3438478.860423,4,29,High Revenue - Review Volume
+781,"Mountain-200 Silver, 46",Bikes,2216,3434256.941928,5,31,High Revenue - Review Volume
+784,"Mountain-200 Black, 46",Bikes,2111,3309673.216908,6,36,High Revenue - Review Volume
+793,"Road-250 Black, 44",Bikes,1642,2516857.314918,7,46,High Revenue - Review Volume
+794,"Road-250 Black, 48",Bikes,1498,2347655.953454,8,53,High Revenue - Review Volume
+795,"Road-250 Black, 52",Bikes,1245,2012447.775000,9,63,High Revenue - Review Volume
+753,"Road-150 Red, 56",Bikes,664,1847818.628000,10,124,High Revenue - Review Volume
+976,"Road-350-W Yellow, 48",Bikes,1622,1774883.557085,11,47,Monitor
+749,"Road-150 Red, 62",Bikes,600,1769096.688000,12,149,Monitor
+969,"Touring-1000 Blue, 60",Bikes,1120,1721242.514355,13,69,Monitor
+973,"Road-350-W Yellow, 40",Bikes,1477,1657198.182549,14,55,Monitor
+792,"Road-250 Red, 58",Bikes,946,1587008.182500,15,83,Monitor
+966,"Touring-1000 Blue, 46",Bikes,1002,1586953.573023,16,79,Monitor
+751,"Road-150 Red, 48",Bikes,493,1540803.062000,17,167,Monitor
+957,"Touring-1000 Yellow, 60",Bikes,1114,1518133.101147,18,70,Monitor
+796,"Road-250 Black, 58",Bikes,910,1506377.632500,19,89,Monitor
+789,"Road-250 Red, 44",Bikes,895,1448122.478985,20,91,Monitor
+954,"Touring-1000 Yellow, 46",Bikes,1005,1426372.869324,21,78,Monitor
+752,"Road-150 Red, 52",Bikes,458,1415563.612000,22,172,Monitor
+777,"Mountain-100 Black, 44",Bikes,678,1365852.378018,23,121,Monitor
+790,"Road-250 Red, 48",Bikes,812,1348759.497540,24,108,Monitor
+750,"Road-150 Red, 44",Bikes,437,1340419.942000,25,182,Monitor
+775,"Mountain-100 Black, 38",Bikes,682,1339997.254626,26,120,Monitor
+771,"Mountain-100 Silver, 38",Bikes,642,1291868.700375,27,134,Monitor
+776,"Mountain-100 Black, 42",Bikes,634,1254722.732292,28,137,Monitor
+778,"Mountain-100 Black, 48",Bikes,616,1234276.030375,29,146,Monitor
+801,"Road-550-W Yellow, 48",Bikes,1763,1233938.877660,30,43,Monitor

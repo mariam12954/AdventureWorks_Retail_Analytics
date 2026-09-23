@@ -1,0 +1,11 @@
+﻿TerritoryID,Territory,CountryRegionCode,RegionGroup,Sales,Orders,Customers,AOV
+4,Southwest,US,North America,24184609.60,6224,4565,3885.70
+6,Canada,CA,North America,16355770.45,4067,1677,4021.58
+1,Northwest,US,North America,16084942.55,4594,3428,3501.29
+9,Australia,AU,Pacific,10655335.96,6843,3625,1557.11
+3,Central,US,North America,7909009.01,385,69,20542.88
+5,Southeast,US,North America,7879655.07,486,91,16213.28
+10,United Kingdom,GB,Europe,7670721.04,3219,1951,2382.95
+7,France,FR,Europe,7251555.65,2672,1844,2713.91
+2,Northeast,US,North America,6939374.48,352,57,19714.13
+8,Germany,DE,Europe,4915407.60,2623,1812,1873.96
